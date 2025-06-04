@@ -1,0 +1,4 @@
+privateKeys.txt
+.env
+*.pyc
+__pycache__/
