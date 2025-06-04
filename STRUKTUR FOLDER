@@ -1,0 +1,5 @@
+pharos-sowing-bot/
+├── sowing_airdrop_bot.py     ← file utama dari kita
+├── privateKeys.txt           ← file berisi private key (jangan di-upload!)
+├── README.md                 ← penjelasan cara pakai
+.gitignore                    ← biar file sensitif nggak ke-upload
